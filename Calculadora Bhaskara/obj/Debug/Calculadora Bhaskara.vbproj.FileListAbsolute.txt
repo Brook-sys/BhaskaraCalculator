@@ -1,0 +1,11 @@
+c:\users\murilo\documents\visual studio 2015\Projects\Calculadora Bhaskara\Calculadora Bhaskara\bin\Debug\Calculadora Bhaskara.exe.config
+c:\users\murilo\documents\visual studio 2015\Projects\Calculadora Bhaskara\Calculadora Bhaskara\bin\Debug\Calculadora Bhaskara.exe
+c:\users\murilo\documents\visual studio 2015\Projects\Calculadora Bhaskara\Calculadora Bhaskara\bin\Debug\Calculadora Bhaskara.pdb
+c:\users\murilo\documents\visual studio 2015\Projects\Calculadora Bhaskara\Calculadora Bhaskara\bin\Debug\Calculadora Bhaskara.xml
+c:\users\murilo\documents\visual studio 2015\Projects\Calculadora Bhaskara\Calculadora Bhaskara\obj\Debug\Calculadora Bhaskara.vbprojResolveAssemblyReference.cache
+c:\users\murilo\documents\visual studio 2015\Projects\Calculadora Bhaskara\Calculadora Bhaskara\obj\Debug\Calculadora_Bhaskara.Form1.resources
+c:\users\murilo\documents\visual studio 2015\Projects\Calculadora Bhaskara\Calculadora Bhaskara\obj\Debug\Calculadora_Bhaskara.Resources.resources
+c:\users\murilo\documents\visual studio 2015\Projects\Calculadora Bhaskara\Calculadora Bhaskara\obj\Debug\Calculadora Bhaskara.vbproj.GenerateResource.Cache
+c:\users\murilo\documents\visual studio 2015\Projects\Calculadora Bhaskara\Calculadora Bhaskara\obj\Debug\Calculadora Bhaskara.exe
+c:\users\murilo\documents\visual studio 2015\Projects\Calculadora Bhaskara\Calculadora Bhaskara\obj\Debug\Calculadora Bhaskara.xml
+c:\users\murilo\documents\visual studio 2015\Projects\Calculadora Bhaskara\Calculadora Bhaskara\obj\Debug\Calculadora Bhaskara.pdb
